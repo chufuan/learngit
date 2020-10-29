@@ -6,4 +6,4 @@ svn svn svn
 22222222222
 11111111111
 00000000000
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
